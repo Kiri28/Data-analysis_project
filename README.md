@@ -8,19 +8,19 @@
 -SQL.
 
 Используемые компиляторы и приложения:  
--Anaconda Navigator
--DB Browser SQLite
--Microsoft Exel.
+-Anaconda Navigator  
+-DB Browser SQLite. 
+-Microsoft Exel.  
 
 Использованные библиотеки:  
--Pandas
--Git
--TenzorFlow
--Numpy
--SkyPy
--Scikit Learn
--Sql
--matplotlib
--sqlite3
+-Pandas. 
+-Git. 
+-TenzorFlow. 
+-Numpy. 
+-SkyPy. 
+-Scikit Learn. 
+-Sql. 
+-matplotlib. 
+-sqlite3  
 
 
