@@ -13,14 +13,14 @@
 -Microsoft Exel.    
 
 Использованные библиотеки:  
--Pandas. 
--Git. 
--TenzorFlow. 
--Numpy. 
--SkyPy. 
--Scikit Learn. 
--Sql. 
--matplotlib. 
--sqlite3  
+-Pandas.   
+-Git.   
+-TenzorFlow.   
+-Numpy.   
+-SkyPy.   
+-Scikit Learn.   
+-Sql.   
+-matplotlib.   
+-sqlite3    
 
 
