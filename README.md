@@ -12,7 +12,7 @@
 -DB Browser SQLite
 -Microsoft Exel.
 
-Использованные библиотеки:
+Использованные библиотеки:  
 -Pandas
 -Git
 -TenzorFlow
