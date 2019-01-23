@@ -21,6 +21,7 @@
 -Scikit Learn.   
 -Sql.   
 -matplotlib.   
--sqlite3    
+-sqlite3
+
 ВАЖНО! Для того чтобы подробно ознакомиться с функционалом системы прочитайте Tutorial.md
 
