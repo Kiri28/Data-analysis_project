@@ -20,5 +20,7 @@
 -SkyPy
 -Scikit Learn
 -Sql
+-matplotlib
+-sqlite3
 
 
