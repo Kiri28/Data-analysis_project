@@ -23,7 +23,7 @@
 -matplotlib.   
 -sqlite3
 
-ВАЖНО! Для того чтобы подробно ознакомиться с функционалом системы прочитайте [Tutorial.md]
+ВАЖНО! Для того чтобы подробно ознакомиться с функционалом системы прочитайте [TUTORIAL.md]
 
-[Tutorial.md]:http://rusgpl.ru/
+[TUTORIAL.md]:https://github.com/Kiri28/Data-analysis_project/blob/master/TUTORIAL.md
 
