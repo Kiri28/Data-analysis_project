@@ -7,7 +7,7 @@
 -Python3
 -SQL.
 
-Используемые компиляторы и приложения:
+Используемые компиляторы и приложения:  
 -Anaconda Navigator
 -DB Browser SQLite
 -Microsoft Exel.
