@@ -10,7 +10,7 @@
 Используемые компиляторы и приложения:  
 -Anaconda Navigator  
 -DB Browser SQLite.   
--Microsoft Exel.    
+-Microsoft Excel.    
 
 Использованные библиотеки:  
 -Pandas.   
