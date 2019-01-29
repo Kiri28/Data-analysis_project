@@ -1,18 +1,18 @@
 # Data-analysis_project
-Проект по вычислению прогнозов рейтинга студентов в университете.
-Данные предоставлены Санкт- Петербугским экономическим университетом.
-Является частью теоретического исследования на предмет зависимости успеваемости студентов вуза от баллов ЕГЭ, а так же первичных показателей обучения в университете.
+The project about computation student's futures raiting in university.  
+The data was provided from Saint- Petersburg university of economics.
+This project is appertains the part of theoretics research about dependence between students marks and their EGE raiting, and also primary statistics of their education in university.  
 
-Проект написан на языке: 
+Was wrote by: 
 -Python3
 -SQL.
 
-Используемые компиляторы и приложения:  
+Frameworks:  
 -Anaconda Navigator  
 -DB Browser SQLite.   
 -Microsoft Excel.    
 
-Использованные библиотеки:  
+Used libraries:  
 -Pandas.   
 -Git.   
 -TenzorFlow.   
@@ -23,7 +23,7 @@
 -matplotlib.   
 -sqlite3
 
-ВАЖНО! Для того чтобы подробно ознакомиться с функционалом системы прочитайте [TUTORIAL.md]
+ATTENTION! It is neccasery to read before using: [TUTORIAL.md]
 
 [TUTORIAL.md]:https://github.com/Kiri28/Data-analysis_project/blob/master/Docs/1_TUTORIAL.md
 
