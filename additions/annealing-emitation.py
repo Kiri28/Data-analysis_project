@@ -1,11 +1,11 @@
 import random
 import math
 
-#Устанавливаем изначальную температуру
+#Take start temperature
 def Temperature(StartTempr,i):
     return(StartTempr*(0.1/(i+1)))
 
-#Устанавливаем вероятность перехода к состоянию с наибольшей величиной
+#Make probablity to changing point position to upper- condition position
 def stochast(dE,Ti):
     return math.exp(-dE/Ti)
 
