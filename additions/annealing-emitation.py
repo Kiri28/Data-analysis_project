@@ -9,14 +9,14 @@ def Temperature(StartTempr,i):
 def stochast(dE,Ti):
     return math.exp(-dE/Ti)
 
-#ВЫдача решений по вероятности
+#Making probablity solutions
 def solution(prb):
     realSol=1.0-prb
     if random.uniform(0.0, 1.0)-realSol<0:
         return(1)
     else: return(0)
 
-# Двумерная модель
+# 2D model version
 def twoD-model(test_rait):
     Tt=100
     H=test_rait[random.randint(0, 100)]
@@ -36,7 +36,7 @@ def twoD-model(test_rait):
     return(Itspp)
 
 
-#Алгоритм имитации отжига для трёхмерной модели с построением точек
+#3D model version
 def threeD-model(Itog_list):
     Itt=Itog_list.reshape((11,9,3))
     Tt=100
