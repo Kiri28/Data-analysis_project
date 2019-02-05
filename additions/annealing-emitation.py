@@ -17,7 +17,7 @@ def solution(prb):
     else: return(0)
 
 # Двумерная модель
-def 2D-model(test_rait):
+def twoD-model(test_rait):
     Tt=100
     H=test_rait[random.randint(0, 100)]
     Itspp=[]
@@ -37,7 +37,7 @@ def 2D-model(test_rait):
 
 
 #Алгоритм имитации отжига для трёхмерной модели с построением точек
-def 3D-model(Itog_list):
+def threeD-model(Itog_list):
     Itt=Itog_list.reshape((11,9,3))
     Tt=100
     H=Itt[random.randint(0, 11),random.randint(0, 9),1]
