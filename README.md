@@ -1,5 +1,3 @@
-.. |Travis| image:: https://api.travis-ci.org/scikit-learn/scikit-learn.svg?branch=master
-.. _Travis: https://travis-ci.org/scikit-learn/scikit-learn
 # Data-analysis_project
 The project about computation student's futures raiting in university.  
 The data was provided from Saint- Petersburg university of economics.
