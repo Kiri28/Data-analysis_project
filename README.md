@@ -1,4 +1,6 @@
 # Data-analysis_project
+[![Python](https://img.shields.io/badge/python-3.6.5-green.svg)](https://www.python.org/).  
+
 The project about computation student's futures raiting in university.  
 The data was provided from Saint- Petersburg university of economics.
 This project is appertains the part of theoretics research about dependence between students marks and their EGE raiting, and also primary statistics of their education in university.  
