@@ -1,6 +1,6 @@
 # Data-analysis_project
 [![Python](https://img.shields.io/badge/python-3.6.5-blue.svg)](https://www.python.org/) 
-[![Anaconda](https://img.shields.io/badge/Anaconda-2.1.1-green.svg)](https://www.anaconda.com/distribution/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-3.0-green.svg)](https://www.anaconda.com/distribution/)
 
 
 The project about computation student's futures raiting in university.  
