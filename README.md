@@ -1,6 +1,6 @@
 # Data-analysis_project
 [![Python](https://img.shields.io/badge/python-3.6.5-blue.svg)](https://www.python.org/)
-[![R-language](https://img.shields.io/badge/R-language-blue.svg)](https://www.r-project.org) 
+[![R](https://img.shields.io/badge/studio-blue.svg)](https://www.r-project.org) 
 [![Anaconda](https://img.shields.io/badge/Anaconda-3.0-green.svg)](https://www.anaconda.com/distribution/)
 
 
