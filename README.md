@@ -1,6 +1,6 @@
 # Data-analysis_project
 [![Python](https://img.shields.io/badge/python-3.6.5-blue.svg)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-db_Sqlite.svg)](https://www.microsoft.com/en-us/sql-server/sql-server-2017) 
+[![SQL](https://img.shields.io/badge/SQL-db_Sqlite-pink.svg)](https://www.microsoft.com/en-us/sql-server/sql-server-2017) 
 [![Anaconda](https://img.shields.io/badge/Anaconda-3.0-green.svg)](https://www.anaconda.com/distribution/)
 
 
